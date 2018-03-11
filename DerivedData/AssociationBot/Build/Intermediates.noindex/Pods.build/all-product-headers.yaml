@@ -1,0 +1,65 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Products/Debug-iphonesimulator/JSQSystemSoundPlayer.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JSQSystemSoundPlayer-Swift.h",
+          'external-contents': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Products/Debug-iphonesimulator/JSQSystemSoundPlayer.framework/Headers/JSQSystemSoundPlayer-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQSystemSoundPlayer-umbrella.h",
+          'external-contents': "/Users/duodajames/Downloads/AssociationBot-master/Pods/Target Support Files/JSQSystemSoundPlayer/JSQSystemSoundPlayer-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSQSystemSoundPlayer.h",
+          'external-contents': "/Users/duodajames/Downloads/AssociationBot-master/Pods/JSQSystemSoundPlayer/JSQSystemSoundPlayer/Classes/JSQSystemSoundPlayer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Products/Debug-iphonesimulator/JSQSystemSoundPlayer.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/JSQSystemSoundPlayer.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Products/Debug-iphonesimulator/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Products/Debug-iphonesimulator/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/Users/duodajames/Downloads/AssociationBot-master/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Products/Debug-iphonesimulator/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/duodajames/Downloads/AssociationBot-master/DerivedData/AssociationBot/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

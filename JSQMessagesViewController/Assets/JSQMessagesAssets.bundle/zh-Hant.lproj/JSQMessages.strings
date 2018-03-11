@@ -1,0 +1,16 @@
+//
+//  Created by Joanthan Liu
+//  Copyright © 2013 Butterfly Tech. All rights reserved.
+//
+
+//  ********************************
+//  Special thanks to the localization contributors!
+//
+//  https://github.com/jessesquires/JSQMessagesViewController/issues/237
+//  ********************************
+
+"load_earlier_messages" = "载入之前的信息";
+
+"send" = "发送";
+
+"new_message" = "新信息";
