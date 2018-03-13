@@ -10,5 +10,4 @@ Some pieces of code from Stack Overflow.
 
 ![Screen Shot](https://github.com/joanthan-liu/GuessChatBot/blob/develop/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-03-11%20at%2019.32.36.png?raw=true)
 
-
-https://github.com/joanthan-liu/GuessChatBot/blob/develop/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-03-11%20at%2019.37.49.png?raw=true
+![Screen Shot](https://github.com/joanthan-liu/GuessChatBot/blob/develop/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-03-11%20at%2019.37.49.png?raw=true)
